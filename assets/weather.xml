@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+ <NewDataSet>
+  <Table1>
+    <city>上海</city>
+    <rays />
+    <yujing>2014年07月26日13时上海市发布雷电黄色预警</yujing>
+    <alarmtext>预计6小时内本市大部分地区将发生雷电活动，可能会造成雷电灾害事故，并伴有一小时15-20毫米的短时强降水和7-8级雷雨大风。防御指引：1、政府及相关部门按照职责做好防雷工作；2、密切关注天气，尽量避免户外活动。|防御指南：|1.政府及相关部门按照职责做好防雷工作；|2.密切关注天气，尽量避免户外活动。|</alarmtext>
+    <warning>属中等强度紫外线辐射天气，外出时建议涂擦SPF高于15、PA+的防晒护肤品，戴帽子、太阳镜。各项气象条件适宜，发生感冒机率较低。但请避免长期处于空调房间中，以防感冒。</warning>
+    <temp0>30℃~27℃</temp0>
+    <temp1>32℃~27℃</temp1>
+    <temp2>32℃~27℃</temp2>
+    <temp3>33℃~27℃</temp3>
+    <temp4>34℃~27℃</temp4>
+    <temp5>35℃~27℃</temp5>
+    <temp6>33℃~27℃</temp6>
+    <weather0>阵雨转多云</weather0>
+    <weather1>雷阵雨转阵雨</weather1>
+    <weather2>雷阵雨转阴</weather2>
+    <weather3>雷阵雨转多云</weather3>
+    <weather4>多云</weather4>
+    <weather5>多云</weather5>
+    <weather6>雷阵雨转多云</weather6>
+    <wind0>西南风4~5级</wind0>
+    <wind1>东北风3~4级</wind1>
+    <wind2>东风3~4级</wind2>
+    <wind3>东风3~4级</wind3>
+    <wind4>东南风3~4级</wind4>
+    <wind5>东南风3~4级</wind5>
+    <wind6>东南风3~4级</wind6>
+    <windlevel0>5</windlevel0>
+    <windlevel1>4</windlevel1>
+    <windlevel2>4</windlevel2>
+    <windlevel3>4</windlevel3>
+    <windlevel4>4</windlevel4>
+    <windlevel5>4</windlevel5>
+    <windlevel6>4</windlevel6>
+    <tdtime>2014年07月26日</tdtime>
+    <intime>2014-07-26T16:46:38.84+08:00</intime>
+    <tempNow>30</tempNow>
+    <shidu>70%</shidu>
+    <winNow>东北风微风</winNow>
+    <windF>微风</windF>
+    <feelTemp>29.7℃</feelTemp>
+    <shiduNow>暖，不舒适</shiduNow>
+    <RelTime>16点</RelTime>
+    <todaySun>05:07 | 18:54</todaySun>
+    <tomorrowSun>05:07 | 18:53</tomorrowSun>
+    <AQIData>103</AQIData>
+    <USAAQIData>162</USAAQIData>
+    <PM2Dot5Data>77</PM2Dot5Data>
+    <PM10Data>104</PM10Data>
+  </Table1>
+   
+</NewDataSet>
